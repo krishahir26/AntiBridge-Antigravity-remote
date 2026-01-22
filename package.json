@@ -1,0 +1,66 @@
+{
+    "name": "@linhbanbanhbao/antibridge-remote-antigravity",
+    "version": "3.7.1",
+    "description": "🌉 Điều khiển Antigravity AI từ xa qua Web/Mobile - Remote Control Antigravity Agent - Auto-Accept Actions - Context-based CDP Injection - Real-time Chat WebSocket - Mobile PWA",
+    "main": "backend/server.js",
+    "scripts": {
+        "start": "node backend/server.js",
+        "dev": "node --watch backend/server.js",
+        "setup": "call SETUP.bat",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "antigravity",
+        "antigravity-remote",
+        "remote-antigravity",
+        "control-antigravity",
+        "antigravity-mobile",
+        "antigravity-web",
+        "remote-control",
+        "ai-agent",
+        "web-control",
+        "mobile-app",
+        "pwa",
+        "cdp",
+        "chrome-devtools-protocol",
+        "puppeteer",
+        "websocket",
+        "real-time-chat",
+        "ai-assistant",
+        "automation",
+        "claude",
+        "gpt",
+        "gemini",
+        "nodejs",
+        "express",
+        "mobile-first",
+        "vietnamese",
+        "tieng-viet"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/linhbanbanhbao/Antibridge_Remote_Antigravity.git"
+    },
+    "author": {
+        "name": "Linh Bui",
+        "email": "linhbanbanhbao@gmail.com",
+        "url": "https://github.com/linhbanbanhbao"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/linhbanbanhbao/Antibridge_Remote_Antigravity/issues"
+    },
+    "homepage": "https://github.com/linhbanbanhbao/Antibridge_Remote_Antigravity#readme",
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=9.0.0"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "ws": "^8.16.0",
+        "puppeteer-core": "^24.0.0",
+        "uuid": "^9.0.1",
+        "cors": "^2.8.5"
+    },
+    "devDependencies": {}
+}
